@@ -1,13 +1,15 @@
-.Accio, #Job{
+.Accio,#Job{
 	width:150px;
 	height:150px;
 	background-color:black;
-	padding:10px;
-	margin-left: 32px;
+	//box-sizing: border-box;
+	
 }
 .hello-accio-job{
 color:white;
-
+padding:10px;
+margin-left: 32px;
+	
 	
 }
 /* Your CSS Code here. */
